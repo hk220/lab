@@ -1,6 +1,6 @@
 # lab
 
-`lab` is a repository for experimenting with code.
+`lab` is a repository for experimenting.
 
 ## Language
 
